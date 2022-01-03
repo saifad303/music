@@ -3,7 +3,7 @@ import AlbumList from "./AlbumList";
 
 function Main() {
   return (
-    <div className="relative bg-gray-500 w-screen h-[92%] overflow-hidden">
+    <div className="relative bg-gray-500 w-screen h-[92%]">
       <AlbumList />
       <Player />
     </div>
